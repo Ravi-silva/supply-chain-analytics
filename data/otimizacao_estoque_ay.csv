@@ -1,0 +1,6 @@
+produto,categoria,demanda_media_diaria,lead_time_medio,es_sugerido,pp_atual,pp_otimizado,eoq,cobertura_atual_dias,cobertura_recomendada_dias,situacao_cobertura,custo_manut_es,taxa_ruptura_atual,rupturas_evitadas,valor_risco_mitigado
+Luva de Proteção CA,EPI,1304.4888888888888,9.47711111111111,27041.0,200,39404.0,2709.0,0.2,30.2,CRITICO,173062.0,0.1731111111111111,689.0,7376626.0
+Óculos de Segurança,EPI,1120.9222222222222,9.977777777777778,24274.0,300,35458.0,3668.0,0.8,31.6,CRITICO,72822.0,0.04088888888888889,94.0,468503.0
+Protetor Auricular,EPI,1061.1777777777777,15.018,34188.0,500,50125.0,4740.0,1.5,47.2,CRITICO,58120.0,0.00022222222222222223,0.0,0.0
+Filtro de Linha Industrial,Eletroeletrônicos,108.38888888888889,17.143356643356643,3271.0,80,5129.0,510.0,1.6,47.3,CRITICO,49065.0,0.04895104895104895,41.0,281556.0
+Capacete de Segurança,EPI,83.13333333333334,6.677622377622377,1051.0,100,1606.0,522.0,6.5,19.3,CRITICO,11561.0,0.0,0.0,0.0

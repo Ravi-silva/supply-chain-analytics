@@ -1,0 +1,6 @@
+Modelo,MAE,RMSE,MAPE (%)
+Média Móvel (3m),55221.1,61010.6,14.4
+Holt-Winters (ETS),17338.1,20879.4,4.86
+"SARIMA(1,1,1)(1,1,0,12)",16643.9,20685.3,4.78
+Gradient Boosting,31990.2,36170.8,8.3
+Prophet (Meta),17990.9,25314.2,5.14
