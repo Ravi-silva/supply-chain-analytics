@@ -1,11 +1,11 @@
-﻿id_fornecedor,fornecedor,pais_origem,tipo_fornecedor,prazo_base_dias,confiabilidade,custo_frete_base
-F001,Metalprime Ind. e Com.,Brasil,nacional,5,0.95,120
-F002,Sul Parafusos Ltda.,Brasil,nacional,7,0.92,95
-F003,Ferramental SP,Brasil,nacional,4,0.97,110
-F004,EPI Total Equipamentos,Brasil,nacional,6,0.9,130
-F005,Eletro Sul Distribuidora,Brasil,nacional,8,0.88,140
-F006,China Industrial Supplies,China,internacional,35,0.8,380
-F007,AsiaTools Manufacturing,China,internacional,42,0.75,420
-F008,Mercosul Materiales S.A.,Argentina,regional,12,0.85,210
-F009,Global Parts Import.,EUA,internacional,28,0.88,510
-F010,TechMotors Europa,Alemanha,internacional,30,0.93,650
+id_fornecedor,fornecedor,pais_origem,tipo_fornecedor,confiabilidade_forn
+F01,Ferragens Sao Paulo Ltda,Brasil,nacional,0.93
+F02,Industrial Minas Suprimentos,Brasil,nacional,0.9
+F03,Sul Fixadores e Cia,Brasil,nacional,0.88
+F04,Nordeste Ferramentas SA,Brasil,nacional,0.85
+F05,Central EPI Distribuidora,Brasil,nacional,0.91
+F06,Shenzhen Tools Co.,China,internacional,0.78
+F07,Guangzhou Industrial Supply,China,internacional,0.75
+F08,Atlas Manufacturing Inc.,EUA,internacional,0.86
+F09,Bosch-Werk Industrietech,Alemanha,internacional,0.92
+F10,Mercosul Insumos SRL,Argentina,regional,0.84

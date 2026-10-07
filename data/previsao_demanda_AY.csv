@@ -1,6 +1,7 @@
 ﻿id_produto,produto,modelo_usado,mape_pct,mae,prev_2025_01,prev_2025_02,prev_2025_03,prev_total_3m
-P007,Luva de Proteção CA,Holt-Winters,10.27,5096,31837,34549,51018,117404
-P008,Óculos de Segurança,SARIMA,12.46,5623,26194,28734,45955,100883
-P010,Protetor Auricular,Holt-Winters,15.33,6227,23905,26168,45433,95506
-P019,Filtro de Linha Industrial,XGBoost,18.93,862,2918,2361,4476,9755
-P009,Capacete de Segurança,Holt-Winters,19.15,637,1994,1826,3662,7482
+P01,Parafuso,SARIMA,29.91,7372,31132,39260,36351,106743
+P07,Capacete de Seguranca,SARIMA,49.63,613,3936,2516,3080,9532
+P02,Porca,XGBoost,29.01,7106,31802,30363,32039,94204
+P04,Oculos de Protecao,Holt-Winters,38.72,968,3230,2030,3502,8762
+P05,Luva de Seguranca,Holt-Winters,29.32,822,2114,2511,3421,8046
+P03,Arruela,SARIMA,23.61,5668,23545,50050,15885,89480

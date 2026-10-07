@@ -1,21 +1,21 @@
-﻿id_produto,produto,categoria,preco_unitario_base,estoque_minimo,estoque_maximo,giro
-P001,Parafuso Aço Inox M8,Fixadores,4.5,500,5000,alto
-P002,Porca Sextavada M8,Fixadores,2.8,500,4000,alto
-P003,Arruela Lisa M8,Fixadores,1.2,800,6000,alto
-P004,Chave Allen 5mm,Ferramentas,18.9,100,1000,medio
-P005,"Chave de Fenda 1/4""",Ferramentas,22.5,100,800,medio
-P006,Martelo Cabo Borracha,Ferramentas,45.0,50,400,baixo
-P007,Luva de Proteção CA,EPI,32.0,200,2000,alto
-P008,Óculos de Segurança,EPI,15.0,300,3000,alto
-P009,Capacete de Segurança,EPI,55.0,100,1200,medio
-P010,Protetor Auricular,EPI,8.5,500,5000,alto
-P011,Cabo de Aço 6mm (m),Materiais,12.0,200,2000,medio
-P012,Tubo PVC 100mm (m),Materiais,9.8,150,1500,medio
-P013,Tinta Epóxi 18L,Materiais,185.0,30,300,baixo
-P014,Selante Silicone 280mL,Materiais,18.0,200,2500,alto
-P015,Motor Elétrico 1CV,Eletroeletrônicos,520.0,20,150,baixo
-P016,Disjuntor Bipolar 20A,Eletroeletrônicos,38.0,100,1000,medio
-P017,"Cabo Flexível 2,5mm (m)",Eletroeletrônicos,3.2,500,5000,alto
-P018,Tomada Industrial 3P,Eletroeletrônicos,28.0,150,1500,medio
-P019,Filtro de Linha Industrial,Eletroeletrônicos,75.0,80,600,medio
-P020,Rolamento 6205,Manutenção,42.0,80,800,medio
+id_produto,produto,categoria,giro_produto
+P01,Parafuso,Fixadores,alto
+P02,Porca,Fixadores,alto
+P03,Arruela,Fixadores,alto
+P04,Oculos de Protecao,EPI,alto
+P05,Luva de Seguranca,EPI,alto
+P06,Protetor Auricular,EPI,alto
+P07,Capacete de Seguranca,EPI,alto
+P08,Cabo Flexivel,Eletroeletronicos,alto
+P09,Disjuntor,Eletroeletronicos,medio
+P10,Tomada Industrial,Eletroeletronicos,medio
+P11,Motor Eletrico,Eletroeletronicos,baixo
+P12,Chave de Fenda,Ferramentas,medio
+P13,Chave Allen (jogo),Ferramentas,medio
+P14,Furadeira,Ferramentas,medio
+P15,Martelo,Ferramentas,baixo
+P16,Tinta Epoxi,Materiais,baixo
+P17,Tubo PVC,Materiais,medio
+P18,Selante,Materiais,medio
+P19,Rolamento,Manutencao,medio
+P20,Cabo de Aco,Manutencao,medio
